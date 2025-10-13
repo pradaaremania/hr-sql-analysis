@@ -1,46 +1,24 @@
-# 👔 HR Analytics (SQL)
+# 🧠 HR Analytics (SQLite + SQL)
 
-### 🧩 Overview
-
-HR dataset analysis focused on employee retention, salary distribution, and workforce insights using SQL (SQLite).
+📊 **Goal:** Analyze HR employee data to understand workforce composition, department structure, and salary distribution.
 
 ---
 
-### 🗂️ Dataset
+## 📁 File structure
 
-A mock HR dataset containing:
-
-- Employee info (age, gender, department, job title)
-- Salary, hire & termination dates
-
----
-
-### 📈 Key Insights
-
-- Average salary by department and gender
-- Tenure and age distribution
-- Turnover rates per department
-- Top paid employees
+hr-sql-analysis/
+│
+├── bootstrap_hr.sql # Creates and populates employees table
+├── queries.sql # Analytical SQL queries
+├── README.md # Project overview
+└── .gitignore
 
 ---
 
-### ⚙️ Files
+## ⚙️ How to run
 
-- `bootstrap_hr.sql` – Creates and populates the dataset
-- `queries.sql` – Analytical queries
-- `hr.db` – SQLite database
-
----
-
-### 🚀 Run Locally
-
-```bash
-sqlite3 hr.db < bootstrap_hr.sql
-sqlite3 hr.db < queries.sql
-```
-
-| Metric              | Example |
-| ------------------- | ------- |
-| Average Salary (IT) | 6833.33 |
-| Highest Salary      | 10500   |
-| Turnover (HR)       | 33%     |
+1. Install [SQLite](https://sqlite.org/download.html)
+2. Open terminal and run:
+   ```bash
+   sqlite3 hr.db ".read bootstrap_hr.sql"
+   ```
